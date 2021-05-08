@@ -28,4 +28,22 @@ The website mainly focused on blog page of the slmedicare organization
          - my posts
          - my comments
 6. About us page
-7. Conatact us page         
+7. Contact us page
+
+#Backend features 
+
+1. Admin login
+2. Manage post categeory 
+3. Manage posts
+         - post titles
+         - post descriptions
+         - categeory
+         - tags
+         - post thumbnails
+         - post image
+ 4. Manage post comments (Apporove od Disapprove) 
+ 5. Manage users (Approve of Disapprove)
+ 6. Settings
+         - comment auto approve or not
+         - user auto active or not
+         - change limit for recent post,popular post, recent comments
